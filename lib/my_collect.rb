@@ -1,5 +1,5 @@
 def my_collect(collection)
-  if collection.is_empty?
+  if collection.empty?
   end
 
 end
